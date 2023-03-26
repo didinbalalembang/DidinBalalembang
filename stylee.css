@@ -1,0 +1,24 @@
+header form{
+    margin-left: 270px;
+}
+
+header h3{
+    color: WHITE;
+    margin-left: 570px;
+}    
+
+body{
+  background-color: white;
+  background-repeat: no-repeat;
+  background-size: 700px;
+       
+}
+
+.card{
+border: 10px solid white;
+}
+
+.container15{
+  text-align: center;
+}
+
